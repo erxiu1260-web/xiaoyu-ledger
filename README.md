@@ -25,7 +25,9 @@
 
 ## 在线使用
 
-👉 **https://erxiu1260-web.github.io/xiaoyu-ledger/**（手机浏览器里可以「添加到主屏幕」，用起来像个 app）
+👉 [打开小鱼的记账本](https://erxiu1260-web.github.io/xiaoyu-ledger/)
+
+手机浏览器里可以「添加到主屏幕」，用起来像个 app。
 
 想做一个自己的？Fork 这个仓库，在 Settings → Pages 里选 `main` 分支，就有了属于你的网址。
 
